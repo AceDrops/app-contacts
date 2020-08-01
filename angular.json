@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "app-contacts"
+    }
+  },
+  "defaultProject": "app-contacts",
+  "cli": {
+    "analytics": false
+  }
 }
